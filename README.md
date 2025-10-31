@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjCH2IUS0RpfMF3hzLOiDeHy52zZnjIL09sp7tnwu-h7-80bL25JJn8SVt6mNYIJMcfniBtGWv-PvGzVfYNMF1ZZu1zp1tmp_vljrHxtClvgqneapqRGSr-LtTO2q30s8ATPRV6oYmPhhpMJu_x-zTDWmY9Gg95C4DYdqeI9yv-kIXNHKUZRmsoisjsWc/s1016/1000387070.png" alt="Dynexplorer Logo" width="140"/>
 </p>
-
-<h1 align="center"> Dynexplorer <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisjqmsPkwGBHM0wt504DppUHSBptMAIvJ9APRChebT24Yx1oG4HTWZM9dUgnrLblpI4RDFmjWKaxMHnU9-HSEv83GGHAZ_3rgSiT2p3QUdizW5neNtF02XRrnz8yPu9vJq0bhzs50qV15sxrTVuFccdvZCfmTWbZg9LadfY8jbAd_e6xvE5Ngt4903bRA/s326/1000387305.webp" alt="Örnek Resim" width="20" height="20" style="margin: 0px; border: 2px solid #333; display: block;"></h1>
 <p align="center">
   <b>Geleceği Yenilikle Şekillendiriyoruz | C.W.J Technology İş Birliğiyle</b><br>
   <i>Yapay zekâ, otomasyon ve ileri teknoloji yazılım çözümleri geliştiriyoruz.</i>
