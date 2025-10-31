@@ -66,12 +66,6 @@ Amacımız; ölçeklenebilir, akıllı ve güvenilir dijital altyapılar gelişt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynexplorer-org&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 </p>
 
-<!-- 🔹 Genel İstatistik Kartı -->
-![Genel İstatistik](https://github-readme-stats.vercel.app/api?username=dynexplorer-org&show_icons=true&theme=tokyonight&hide_border=true)
-
-<!-- 🔹 En Çok Kullanılan Diller -->
-![Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=dynexplorer-org&layout=compact&theme=tokyonight&hide_border=true)
-
 <!-- 🔹 Aktivite Grafiği -->
 ![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=dynexplorer-org&theme=react-dark&hide_border=true)
 
@@ -94,7 +88,7 @@ Amacımız; ölçeklenebilir, akıllı ve güvenilir dijital altyapılar gelişt
 
 
 ### 🎯 Vizyonumuz  
-Dijital dönüşüm sürecine yön veren, yapay zekâ ve otomasyon temelli sistemlerle geleceği yeniden tanımlamak.
+Dijital dönüşüm sürecine yön veren, yapay zekâ ve otomasyon temelli sistemlerle geleceği yeniden tımlamak.
 
 
 ### 🧭 Misyonumuz  
