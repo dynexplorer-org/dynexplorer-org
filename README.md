@@ -86,6 +86,76 @@ Amacımız; ölçeklenebilir, akıllı ve güvenilir dijital altyapılar gelişt
   <a href="https://tiktok.com/@dynexplorer" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
 
+### 🎯 Vizyonumuz  
+Dijital dönüşüm sürecine yön veren, yapay zekâ ve otomasyon temelli sistemlerle geleceği yeniden tanımlamak.
+
+### 🧭 Misyonumuz  
+İleri teknolojiyi erişilebilir kılmak; işletmelere ölçeklenebilir, güvenli ve sürdürülebilir çözümler sunmak.
+
+### 🧩 Kurumsal Değerlerimiz  
+- 🔍 **Şeffaflık:** Her zaman açık iletişim ve güven odaklı yaklaşım  
+- 💡 **Yenilik:** Sürekli öğrenme, sürekli gelişim  
+- 🤝 **İş Birliği:** Küresel ekip ruhu  
+- 🌱 **Sürdürülebilirlik:** Teknolojiyi doğayla uyumlu hale getirme
+
+- ### 🤖 Araştırma ve Geliştirme Alanlarımız  
+- Yapay zekâ tabanlı veri modelleme  
+- Otomasyon ve IoT sistemleri  
+- Doğal dil işleme (NLP)  
+- Görüntü işleme ve tanıma sistemleri  
+- Bulut temelli yapay zekâ optimizasyonu
+
+- ### 📈 Teknik Veriler  
+- 🔧 Toplam geliştirme saati: 4.800+  
+- 🧩 Kod satırı: 1.200.000+  
+- 🌍 Aktif proje sayısı: 25+  
+- 🚀 Yayında olan sistem: 7
+
+- ### 🧰 Kullanılan Teknolojiler  
+| Kategori | Teknolojiler |
+|-----------|--------------|
+| Backend | Laravel, Node.js, PHP, Express |
+| Frontend | React, TypeScript, TailwindCSS |
+| Mobil | Flutter, Kotlin |
+| Veritabanı | MySQL, MongoDB, Redis |
+| DevOps | Docker, GitHub Actions, Ubuntu |
+| AI / ML | Python, TensorFlow, OpenCV |
+
+### 🧱 Sistem Mimarisi
+Tüm sistemlerimiz; **mikroservis mimarisi**, **container tabanlı** yapı ve **API-first** yaklaşımıyla inşa edilmiştir.  
+Dağıtık altyapımız **Dynex Cloud** üzerinde barındırılmaktadır.
+
+### 🤝 Ortaklıklar ve İş Birlikleri
+- 🏢 **C.W.J Technology** – Ana teknoloji ortağımız  
+- ☁️ **Dynex Cloud** – Ölçeklenebilir bulut sistemimiz  
+- 🔬 **AI Research Unit** – Yapay zekâ Ar-Ge laboratuvarımız
+
+- ### 📰 Basında Biz  
+- “Yapay zekâ alanında yükselen yeni nesil girişim: Dynexplorer Core” — *TechRadar Türkiye*  
+- “Bulut tabanlı otomasyon sistemleriyle fark yaratıyor.” — *DigitalFuture Blog*
+
+- ### 👨‍💻 Ekip
+- **Emre D.** — Baş geliştirici & sistem mimarı  
+- **J. Kim** — Yapay zekâ araştırmacısı  
+- **C.W.J Tech Team** — Altyapı & DevOps ekibi
+
+- ### 🧰 Katkıda Bulunma
+Projelerimize katkı sağlamak isteyen geliştiriciler için rehber:  
+1. Fork oluşturun  
+2. Yeni bir branch açın (`feature/yeni-özellik`)  
+3. Değişikliklerinizi gönderin (`pull request`)
+
+4. ### 🏆 Sertifikalar ve Başarılar  
+- Google Cloud Certified – Cloud Engineer  
+- Microsoft AI Fundamentals  
+- Linux Foundation Developer Badge
+
+- ### 🚀 2025 Yol Haritası  
+- [ ] Venus AI v2.0 yayınlanacak  
+- [ ] Dynex Cloud global API entegrasyonu  
+- [ ] Mobil uygulama SDK’sı  
+- [ ] AI Dashboard & Veri Görselleştirme modülü
+
 ---
 
 <p align="center">
