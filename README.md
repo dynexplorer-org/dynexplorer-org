@@ -1,7 +1,7 @@
 <!-- 🌐 DYNEXPLORER CORE RESMİ PROFİLİ -->
 
 <p align="center">
-  <img src="https://i.ibb.co/T1XrwKs/dynexplorer-logo.png" alt="Dynexplorer Logo" width="140"/>
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgU8EpaTSVYDf3Q1T18klg4nuOKYCGPnHb70wgRbGQZ1du9NKvQMCjXiWWFRP4sK99VYXxYhTmSS2OaCwJkKjKGtfVbReUrQfW8IqEsIv8hk5t9wSgn3kacLC1THosuxvXYilOOPcCfnZ2Xl0IwGAlyj36oujcVNSLpVHTZ9LS8SclxjYWDVsFd3V6OFTK9=s150" alt="Dynexplorer Logo" width="140"/>
 </p>
 
 <h1 align="center">🌌 Dynexplorer Core</h1>
