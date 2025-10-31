@@ -4,7 +4,7 @@
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgU8EpaTSVYDf3Q1T18klg4nuOKYCGPnHb70wgRbGQZ1du9NKvQMCjXiWWFRP4sK99VYXxYhTmSS2OaCwJkKjKGtfVbReUrQfW8IqEsIv8hk5t9wSgn3kacLC1THosuxvXYilOOPcCfnZ2Xl0IwGAlyj36oujcVNSLpVHTZ9LS8SclxjYWDVsFd3V6OFTK9=s150" alt="Dynexplorer Logo" width="140"/>
 </p>
 
-<h1 align="center"> Dynexplorer </h1>    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisjqmsPkwGBHM0wt504DppUHSBptMAIvJ9APRChebT24Yx1oG4HTWZM9dUgnrLblpI4RDFmjWKaxMHnU9-HSEv83GGHAZ_3rgSiT2p3QUdizW5neNtF02XRrnz8yPu9vJq0bhzs50qV15sxrTVuFccdvZCfmTWbZg9LadfY8jbAd_e6xvE5Ngt4903bRA/s326/1000387305.webp" alt="Örnek Resim" width="30" height="30" style="margin: 5px; border: 2px solid #333; display: block;">
+<h1 align="center"> Dynexplorer<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisjqmsPkwGBHM0wt504DppUHSBptMAIvJ9APRChebT24Yx1oG4HTWZM9dUgnrLblpI4RDFmjWKaxMHnU9-HSEv83GGHAZ_3rgSiT2p3QUdizW5neNtF02XRrnz8yPu9vJq0bhzs50qV15sxrTVuFccdvZCfmTWbZg9LadfY8jbAd_e6xvE5Ngt4903bRA/s326/1000387305.webp" alt="Örnek Resim" width="30" height="30" style="margin: 5px; border: 2px solid #333; display: block;"></h1>
 <p align="center">
   <b>Geleceği Yenilikle Şekillendiriyoruz | C.W.J Technology İş Birliğiyle</b><br>
   <i>Yapay zekâ, otomasyon ve ileri teknoloji yazılım çözümleri geliştiriyoruz.</i>
