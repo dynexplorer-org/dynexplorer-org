@@ -68,6 +68,27 @@ Amacımız; ölçeklenebilir, akıllı ve güvenilir dijital altyapılar gelişt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynexplorer&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 </p>
 
+<!-- 🔹 Genel İstatistik Kartı -->
+![Genel İstatistik](https://github-readme-stats.vercel.app/api?username=KULLANICIADI&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- 🔹 En Çok Kullanılan Diller -->
+![Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADI&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- 🔹 Katkı Serisi (Streak) -->
+![Katkı Serisi](https://streak-stats.demolab.com?user=KULLANICIADI&theme=tokyonight&hide_border=true)
+
+<!-- 🔹 Başarı Kupaları -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=KULLANICIADI&theme=onestar&no-frame=true&row=1&column=7)
+
+<!-- 🔹 Aktivite Grafiği -->
+![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=KULLANICIADI&theme=react-dark&hide_border=true)
+
+<!-- 🔹 WakaTime (Kodlama Süresi) -->
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=KULLANICIADI&theme=tokyonight)
+
+<!-- 🔹 Metrics Dashboard -->
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.calendar.svg" width="100%">
+
 ---
 
 ### 🛰️ Öne Çıkan Projeler
