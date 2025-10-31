@@ -34,7 +34,7 @@ Amacımız; ölçeklenebilir, akıllı ve güvenilir dijital altyapılar gelişt
 <code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png"></code>**SQL / NoSQL** – Veritabanı tasarımı ve optimizasyon  
 <code><img height="15" alt="javascript" src="https://commons.wikimedia.org/wiki/Category:Security_icons#/media/File%3AWebroot_Spy_Sweeper_(green).png"></code>**Web Güvenliği** – XSS, CSRF, SQL Injection testleri  
 <code><img height="15" alt="javascript" src="https://commons.wikimedia.org/wiki/Category:Document_icons#/media/File%3ACrystal_Project_Folder_documents.png"></code>**RESTful API & JSON** tabanlı sistem geliştirme  
-<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"></code>**Linux & <code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"></code>Ubuntu** – Sunucu yönetimi, DevOps ve entegrasyon  
+<code><img height="15" alt="javascript" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTZHUFSRuEy1ygrB7huX8GAGJy_IHs_uAU2-Mq3VeMsF2ihsEXIO7mcF10_gHOawCZEHGzGzT-KOfek5gPvjmq_Rd-4wXRSsO6qqUywFhYgjr0YoXyu0-pynwy2UqfiqTqammwx_Cb7HWvm0xqo66OGfhim6Rhx9nFG6f7TLh6Z35uyIMj9b9VMdsVcc/s1160/1000387362.png"></code>**Linux & <code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"></code>Ubuntu** – Sunucu yönetimi, DevOps ve entegrasyon  
 
 ---
 
