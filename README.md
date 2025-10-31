@@ -61,9 +61,7 @@ Amacımız; ölçeklenebilir, akıllı ve güvenilir dijital altyapılar gelişt
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dynexplorer-org&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub İstatistikleri" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dynexplorer-org&theme=tokyonight" alt="GitHub Aktiflik İstatistikleri" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynexplorer-org&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 </p>
@@ -73,12 +71,6 @@ Amacımız; ölçeklenebilir, akıllı ve güvenilir dijital altyapılar gelişt
 
 <!-- 🔹 En Çok Kullanılan Diller -->
 ![Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=dynexplorer-org&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- 🔹 Katkı Serisi (Streak) -->
-![Katkı Serisi](https://streak-stats.demolab.com?user=dynexplorer-org&theme=tokyonight&hide_border=true)
-
-<!-- 🔹 Başarı Kupaları -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=dynexplorer-org&theme=onestar&no-frame=true&row=1&column=7)
 
 <!-- 🔹 Aktivite Grafiği -->
 ![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=dynexplorer-org&theme=react-dark&hide_border=true)
