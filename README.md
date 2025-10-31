@@ -76,21 +76,14 @@ Amacımız; ölçeklenebilir, akıllı ve güvenilir dijital altyapılar gelişt
 
 ---
 
-### 🌐 Sosyal Medya ve İletişim
-<p align="center">
-  <a href="mailto:info@dynexplorer.com"><img src="https://img.shields.io/badge/E%20Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://dynexplorer.com" target="_blank"><img src="https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://github.com/dynexplorer" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/dynexplorer" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/dynexplorer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://tiktok.com/@dynexplorer" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-</p>
 
 ### 🎯 Vizyonumuz  
 Dijital dönüşüm sürecine yön veren, yapay zekâ ve otomasyon temelli sistemlerle geleceği yeniden tanımlamak.
 
+
 ### 🧭 Misyonumuz  
 İleri teknolojiyi erişilebilir kılmak; işletmelere ölçeklenebilir, güvenli ve sürdürülebilir çözümler sunmak.
+
 
 ### 🧩 Kurumsal Değerlerimiz  
 - 🔍 **Şeffaflık:** Her zaman açık iletişim ve güven odaklı yaklaşım  
@@ -98,18 +91,22 @@ Dijital dönüşüm sürecine yön veren, yapay zekâ ve otomasyon temelli siste
 - 🤝 **İş Birliği:** Küresel ekip ruhu  
 - 🌱 **Sürdürülebilirlik:** Teknolojiyi doğayla uyumlu hale getirme
 
+
 - ### 🤖 Araştırma ve Geliştirme Alanlarımız  
 - Yapay zekâ tabanlı veri modelleme  
 - Otomasyon ve IoT sistemleri  
 - Doğal dil işleme (NLP)  
 - Görüntü işleme ve tanıma sistemleri  
-- Bulut temelli yapay zekâ optimizasyonu
+- Bulut temelli yapay zekâ
+optimizasyonu
+
 
 - ### 📈 Teknik Veriler  
 - 🔧 Toplam geliştirme saati: 4.800+  
 - 🧩 Kod satırı: 1.200.000+  
 - 🌍 Aktif proje sayısı: 25+  
 - 🚀 Yayında olan sistem: 7
+
 
 - ### 🧰 Kullanılan Teknolojiler  
 | Kategori | Teknolojiler |
@@ -121,29 +118,35 @@ Dijital dönüşüm sürecine yön veren, yapay zekâ ve otomasyon temelli siste
 | DevOps | Docker, GitHub Actions, Ubuntu |
 | AI / ML | Python, TensorFlow, OpenCV |
 
+
 ### 🧱 Sistem Mimarisi
 Tüm sistemlerimiz; **mikroservis mimarisi**, **container tabanlı** yapı ve **API-first** yaklaşımıyla inşa edilmiştir.  
 Dağıtık altyapımız **Dynex Cloud** üzerinde barındırılmaktadır.
+
 
 ### 🤝 Ortaklıklar ve İş Birlikleri
 - 🏢 **C.W.J Technology** – Ana teknoloji ortağımız  
 - ☁️ **Dynex Cloud** – Ölçeklenebilir bulut sistemimiz  
 - 🔬 **AI Research Unit** – Yapay zekâ Ar-Ge laboratuvarımız
 
+
 - ### 📰 Basında Biz  
 - “Yapay zekâ alanında yükselen yeni nesil girişim: Dynexplorer Core” — *TechRadar Türkiye*  
 - “Bulut tabanlı otomasyon sistemleriyle fark yaratıyor.” — *DigitalFuture Blog*
+
 
 - ### 👨‍💻 Ekip
 - **Emre D.** — Baş geliştirici & sistem mimarı  
 - **J. Kim** — Yapay zekâ araştırmacısı  
 - **C.W.J Tech Team** — Altyapı & DevOps ekibi
 
+
 - ### 🧰 Katkıda Bulunma
 Projelerimize katkı sağlamak isteyen geliştiriciler için rehber:  
 1. Fork oluşturun  
 2. Yeni bir branch açın (`feature/yeni-özellik`)  
 3. Değişikliklerinizi gönderin (`pull request`)
+
 
 4. ### 🏆 Sertifikalar ve Başarılar  
 - Google Cloud Certified – Cloud Engineer  
@@ -155,6 +158,16 @@ Projelerimize katkı sağlamak isteyen geliştiriciler için rehber:
 - [ ] Dynex Cloud global API entegrasyonu  
 - [ ] Mobil uygulama SDK’sı  
 - [ ] AI Dashboard & Veri Görselleştirme modülü
+
+- [ ] ### 🌐 Sosyal Medya ve İletişim
+- [ ] <p align="center">
+  <a href="mailto:info@dynexplorer.com"><img src="https://img.shields.io/badge/E%20Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://dynexplorer.com" target="_blank"><img src="https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://github.com/dynexplorer" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/dynexplorer" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/dynexplorer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://tiktok.com/@dynexplorer" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+</p>
 
 ---
 
