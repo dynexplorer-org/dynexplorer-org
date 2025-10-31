@@ -22,19 +22,19 @@ Amacımız; ölçeklenebilir, akıllı ve güvenilir dijital altyapılar gelişt
 ---
 
 ### 💻 Uzmanlık Alanlarımız
-- ❤️‍🔥 **Laravel 10+ & PHP 8.x** – İleri düzey web geliştirme ve backend mimarisi  
-- 🟢 **Node.js** – Sunucu tarafı JavaScript geliştirme  
-- 💛 **JavaScript / TypeScript** – Frontend ve full-stack programlama  
-- 🐍 **Python** – Script, veri analizi ve otomasyon  
-- 💙 **Flutter** – Mobil uygulama geliştirme (orta-ileri düzey)  
-- 🧡 **Kotlin** – Android uygulama geliştirme  
-- 🍎 **Objective-C** – iOS uygulama geliştirme  
-- 💠 **C / C++** – Sistem programlama ve performans optimizasyonu  
-- 🧠 **Makine Programlama & Algoritma Tasarımı**  
-- 💾 **SQL / NoSQL** – Veritabanı tasarımı ve optimizasyon  
-- 🔒 **Web Güvenliği** – XSS, CSRF, SQL Injection testleri  
-- 🔗 **RESTful API & JSON** tabanlı sistem geliştirme  
-- 🐧 **Linux & Ubuntu** – Sunucu yönetimi, DevOps ve entegrasyon  
+<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>**Laravel 10+ & <code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>PHP 8.x** – İleri düzey web geliştirme ve backend mimarisi  
+<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>**Node.js** – Sunucu tarafı JavaScript geliştirme  
+<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>**JavaScript / <code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>TypeScript** – Frontend ve full-stack programlama  
+<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>**Python** – Script, veri analizi ve otomasyon  
+<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg"></code>**Flutter** – Mobil uygulama geliştirme (orta-ileri düzey)  
+<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>**Kotlin** – Android uygulama geliştirme  
+<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg"></code>**Objective-C** – iOS uygulama geliştirme  
+<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>**C / <code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>C++** – Sistem programlama ve performans optimizasyonu  
+<code><img height="15" alt="javascript" src="https://commons.wikimedia.org/wiki/Category:Server_icons#/media/File%3AServiceconf.png"></code>**Makine Programlama & Algoritma Tasarımı**  
+<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png"></code>**SQL / NoSQL** – Veritabanı tasarımı ve optimizasyon  
+<code><img height="15" alt="javascript" src="https://commons.wikimedia.org/wiki/Category:Security_icons#/media/File%3AWebroot_Spy_Sweeper_(green).png"></code>**Web Güvenliği** – XSS, CSRF, SQL Injection testleri  
+<code><img height="15" alt="javascript" src="https://commons.wikimedia.org/wiki/Category:Document_icons#/media/File%3ACrystal_Project_Folder_documents.png"></code>**RESTful API & JSON** tabanlı sistem geliştirme  
+<code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"></code>**Linux & <code><img height="15" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"></code>Ubuntu** – Sunucu yönetimi, DevOps ve entegrasyon  
 
 ---
 
