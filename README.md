@@ -159,8 +159,7 @@ Projelerimize katkı sağlamak isteyen geliştiriciler için rehber:
 - [ ] Venus Pawg yayınlanacak  
 - [ ] Dynex Türkiye global eğitim sağlanacak
 
-- [ ] ### 🌐 Sosyal Medya ve İletişim
-- [ ] <p align="center">
+### 🌐 Sosyal Medya ve İletişim <p align="center">
   <a href="mailto:support@dynexplorer.org"><img src="https://img.shields.io/badge/E%20Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://dynexplorer.com" target="_blank"><img src="https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://github.com/dynexplorer-org" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
