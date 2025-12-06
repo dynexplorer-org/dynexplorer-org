@@ -1,6 +1,6 @@
 <!-- Updated Company Profile -->
 
-# 🌐 DYNEXPLORER OFFICIAL PROFILE
+# 🌐 Dynexplorer Studio 
 
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjCH2IUS0RpfMF3hzLOiDeHy52zZnjIL09sp7tnwu-h7-80bL25JJn8SVt6mNYIJMcfniBtGWv-PvGzVfYNMF1ZZu1zp1tmp_vljrHxtClvgqneapqRGSr-LtTO2q30s8ATPRV6oYmPhhpMJu_x-zTDWmY9Gg95C4DYdqeI9yv-kIXNHKUZRmsoisjsWc/s1016/1000387070.png" alt="Dynexplorer Logo" width="140"/>
